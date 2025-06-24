@@ -7,6 +7,6 @@ services:
     startCommand: "python app.py"
     envVars:
       - key: OPENAI_API_KEY
-        value: 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
+        value: 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
       - key: FLASK_SECRET_KEY
         value: віртуальнийклієнт
